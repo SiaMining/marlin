@@ -54,6 +54,10 @@ Once every minute, a global report is printed. This report includes:
 
 ## Changelog
 
+### Version 1.1.0 (November 8, 2018)
+
+* Added compatibility with the Sia hard fork of October 31, 2018.
+
 ### Version 1.0.0 (September 8, 2016)
 
 * CUDA support has been added. Nvidia GPUs should now be listed twice, once as CUDA and once as OpenCL devices. By default, OpenCL is not used for Nvidia GPUs.
